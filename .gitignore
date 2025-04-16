@@ -1,0 +1,9 @@
+data/*
+fig/*
+log/*
+log.txt
+models/*
+outputs/*
+run_time.log
+test.ipynb
+
