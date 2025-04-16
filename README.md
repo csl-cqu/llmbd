@@ -1,4 +1,5 @@
-## LLMBD:BackdoorDefenseviaLargeLanguage Model ParaphrasingandDataVotingin NLP
+## Title
+LLMBD:BackdoorDefenseviaLargeLanguage Model ParaphrasingandDataVotingin NLP
 
 ### Abstract
 With the rapid development of natural language processing (NLP), backdoor attacks have emerged as a significant security threat. These attacks inject malicious triggers into NLP models, causing them to produce adversarial outputs while remaining functional under normal input. To eliminate backdoors, existing data-driven defense methods typically transform backdoored samples into normal samples. However, these defenses lack the scalability to adapt effectively to various backdoor attacks.
